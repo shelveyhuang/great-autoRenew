@@ -1,13 +1,12 @@
 # GreatHost 自动续期状态
 
-🎉 **GreatHost 续期成功**
+🚨 **GreatHost 脚本报错**
 
 📛 服务器名称: myser
-🆔 ID: `2e8e1c7b-90fe-4722-8db9-1df5b04dfc3c`
-⏰ 增加时间: 24 ➔ 36h
-🚀 服务器状态: 🟡 Starting
-💡 提示: Servidor gratuito renovado correctamente
-🌐 落地 IP: `172.184.191.162`
-📅 时间: 2026/05/04 22:12:59
+❌ 故障: `Message: unknown error: net::ERR_CONNECTION_CLOSED
+  (Session info: chrome=147.0.7727.137)
+Stacktrac`
+🌐 代理状态: 已尝试直连
+📅 时间: 2026/05/05 11:26:51
 
-> 最近更新: 2026/05/04 22:13:00
+> 最近更新: 2026/05/05 11:26:52
