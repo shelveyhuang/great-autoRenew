@@ -4,9 +4,9 @@
 
 📛 服务器名称: myser
 ❌ 故障: `Message: unknown error: net::ERR_CONNECTION_CLOSED
-  (Session info: chrome=149.0.7827.53)
-Stacktrace`
+  (Session info: chrome=149.0.7827.102)
+Stacktrac`
 🌐 代理状态: 已尝试直连
-📅 时间: 2026/06/09 00:01:48
+📅 时间: 2026/06/09 11:57:35
 
-> 最近更新: 2026/06/09 00:01:48
+> 最近更新: 2026/06/09 11:57:37
